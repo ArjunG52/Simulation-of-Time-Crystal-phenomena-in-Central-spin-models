@@ -12,5 +12,6 @@ The paper explores the emergence of time-crystalline behavior in central-spin sy
 
 This repository contains the code to simulate the central-spin model and reproduce the results presented in the paper. The simulations are performed using Python, with the help of the QuSpin library for exact diagonalization of quantum many-body systems.
 
+As some simulations very computationally expensive, I have not recreated the figures but the code for the same is uploaded.
 ## Acknowledgments
 This project is based on the paper by Frantzeskakis et al. (arXiv:2303.00893v2). The authors would like to thank the contributors to the QuSpin library for providing tools for exact diagonalization of quantum many-body systems.
